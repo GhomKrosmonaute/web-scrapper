@@ -1,7 +1,7 @@
 {
   "name": "@ghom/web-scrapper",
   "author": "ghom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "type": "module",
   "main": "dist/esm/index.js",
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GhomKrosmonaute/web-wrapper.git"
+    "url": "git+https://github.com/GhomKrosmonaute/web-scrapper.git"
   },
   "bugs": {
-    "url": "https://github.com/GhomKrosmonaute/web-wrapper/issues"
+    "url": "https://github.com/GhomKrosmonaute/web-scrapper/issues"
   },
-  "homepage": "https://github.com/GhomKrosmonaute/web-wrapper#readme"
+  "homepage": "https://github.com/GhomKrosmonaute/web-scrapper#readme"
 }
